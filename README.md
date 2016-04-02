@@ -1,3 +1,4 @@
+![GitHub Logo](/currency_logo.png)
 # Currency
 
 - Follow foreign currency
