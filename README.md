@@ -6,6 +6,5 @@
 - Used .Net Transitions [https://github.com/UweKeim/dot-net-transitions]
 
 
-
 ### Version
 1.0.0
