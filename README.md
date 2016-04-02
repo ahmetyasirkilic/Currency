@@ -1,2 +1,5 @@
 # Currency
-Follow currency rate from app
+
+Follow foreign currency.,
+Only USD -> TRY ,
+Adaptable other currencies
