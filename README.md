@@ -1,5 +1,5 @@
 # Currency
 
-- Follow foreign currency., \n
-- Only USD -> TRY ,
-Adaptable other currencies
+- Follow foreign currency
+- Only USD -> TRY 
+- Adaptable other currencies
